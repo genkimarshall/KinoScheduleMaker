@@ -10,8 +10,8 @@ The parameters for the schedule (employee info, who is scheduled today and at wh
 
 ## Run It
 
-1. `pip install ortools`
-2. `./main.py`
+1. `pip install ortools sty`
+3. `./main.py`
 
 A specific schedule can be found using `faketime`.
 
